@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast sobre o DREX ;)
 
 ## 📒 Descrição
 Podcast
